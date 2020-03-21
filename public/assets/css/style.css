@@ -26,9 +26,9 @@
       border-style: solid;
       border-color: #dddddd;
   }
-  .content2 {
-    justify-content: center;
-    flex-direction: row;
-    margin: auto;
+  .pic {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
   }
   
