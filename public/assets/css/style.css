@@ -1,0 +1,34 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkslategrey;
+    color: white;
+    text-align: center;
+  }
+  
+  body {
+      background-image: url('/assets/images/cool-background.png');
+  }
+    .center {
+      display: flex;
+      flex: 1 0 auto;
+      margin-left:auto;
+      margin-right:auto;
+      margin-top: 10%;
+      margin-bottom: 10%;
+      height: 600px;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      background-color: white;
+      border-style: solid;
+      border-color: #dddddd;
+  }
+  .content2 {
+    justify-content: center;
+    flex-direction: row;
+    margin: auto;
+  }
+  
